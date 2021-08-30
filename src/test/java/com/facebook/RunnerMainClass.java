@@ -15,6 +15,10 @@ public class RunnerMainClass extends BaseClass {
 		System.out.println("done");
 		System.out.println("updated pull");
 		System.out.println("quiver conflict");
+		System.out.println("local conflict");
+
+		
+
 		
 	
 		
