@@ -13,6 +13,7 @@ public class RunnerMainClass extends BaseClass {
 		typeInput(fbLogin.getPassword(), "sabari");
 		btnClick(fbLogin.getLogIn());
 		System.out.println("done");
+		System.out.println("local conflict");
 		
 	
 		
