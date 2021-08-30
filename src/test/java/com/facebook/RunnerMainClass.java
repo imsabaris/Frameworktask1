@@ -12,6 +12,7 @@ public class RunnerMainClass extends BaseClass {
 		typeInput(fbLogin.getUserName(),sql.mai());
 		typeInput(fbLogin.getPassword(), "sabari");
 		btnClick(fbLogin.getLogIn());
+		System.out.println("done");
 		
 	
 		
